@@ -1,0 +1,7 @@
+.Lane {
+    background-color: #DBEAFE;
+    border-radius: 0.5rem;
+    flex: 1;
+    margin: 0 0.5rem;
+    padding: 1rem;
+}

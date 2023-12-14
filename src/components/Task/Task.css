@@ -1,0 +1,7 @@
+.Task {
+    background-color: white;
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
